@@ -1,7 +1,7 @@
 # Show and Hide Password React App
 
-> Install this dependencies while importing Modules
+Install this dependencies while importing Modules
 
-> npm install styled-components
+npm install styled-components
 
-> npm install react-icons
+npm install react-icons
